@@ -26,9 +26,9 @@ Add an x for each milestone completed
 ### Making a Copy
 
 * [x] Read this document
-* [ ] Fork this repository
-* [ ] Signup for a Firebase account
-* [ ] Create a new Firebase of your own
+* [x] Fork this repository
+* [x] Signup for a Firebase account
+* [x] Create a new Firebase of your own
 * [ ] Host a copy of this site using your own Firebase
 
 ### Personalizing
