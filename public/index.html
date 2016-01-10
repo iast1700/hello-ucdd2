@@ -34,7 +34,7 @@
       <script>
 
         // create a firebase reference to the root
-        var ref = new Firebase('https://glowing-fire-5737.firebaseapp.com')
+        var ref = new Firebase('https://glowing-fire-5737.firebaseio.com')
 
         // read data from the location bio/favorite_foods, only once
         ref.child('bio/favorite_foods').once('value', function(snapshot){
